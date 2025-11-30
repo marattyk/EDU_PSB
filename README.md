@@ -20,7 +20,7 @@ pip install fastapi uvicorn sqlite3
 
 ВИДЕО С РАБОТОСПОСОБНОСТЬЮ: https://drive.google.com/file/d/1e0P469QvIO4pxaxMji3IU2CaNixR_j_D/view?usp=sharing
 
-УЧАСТНИКИ:
+УЧАСТНИКИ команды комето:
 1) Мартыненко Артур - капитан, маркетолог, ананлитик @marattyk
 2) Сафронов Андрей - маркетолог, дизайнер @zloy_guss
 3) Пашков Архип - программист, веб-дизайнер @arhipka252
